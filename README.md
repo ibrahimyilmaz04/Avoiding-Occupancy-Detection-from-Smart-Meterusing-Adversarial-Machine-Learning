@@ -1,1 +1,3 @@
 # Avoiding-Occupancy-Detection-from-Smart-Meterusing-Adversarial-Machine-Learning
+
+ In this paper, our majorcontributions  are  twofold.  The  first  one  is  that  we  validate  theviability  of  an  occupancy  detection  attack  based  on  Long  ShortTerm  Memory  (LSTM)  method  and  compare  the  results  witha  existing  research  where  our  findings  are  outperform  thanthis  research.  The  second  one,  we  introduce  an  adversarial  ma-chine  learning  based  occupancy  detection  avoidance  (AMODA)framework   as   an   counter   attack   in   order   to   prevent   abuseof   consumption
