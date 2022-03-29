@@ -1,3 +1,3 @@
-# Avoiding-Occupancy-Detection-from-Smart-Meterusing-Adversarial-Machine-Learning
+# Avoiding Occupancy Detection from Smart Meter using Adversarial Machine Learning and Blockchain
 
- In this research, our major contributions are twofold.  The  first  one  is  that  we  validate  theviability  of  an  occupancy  detection  attack  based  on  Long  ShortTerm  Memory  (LSTM)  method  and  compare  the  results  witha  existing  research  where  our  findings  are  outperform  than this  research.  The  second  one,  we  introduce  an  adversarial  ma-chine  learning  based  occupancy  detection  avoidance  (AMODA) framework   as   an   counter   attack   in   order   to   prevent   abuse of   consumption
+ In this research, my major contributions are twofold. The first one is  that I validate the viability of an occupancy detection attack based on Long Short Term Memory  (LSTM) method and compare the results with a existing research where our findings are outperform than this research. The second one, we introduce an adversarial machine  learning based occupancy detection avoidance (AMODA) framework as an counter attack in order to prevent abuse of consumption.
